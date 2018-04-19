@@ -1,4 +1,4 @@
 trigger AccountTrigger on Account (before insert) {
-
-    	AccountTriggerHandler.SetDefaultValues(Trigger.new);
+    
+    AccountTriggerHelper.createDescription(trigger.new);
 }

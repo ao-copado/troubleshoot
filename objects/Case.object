@@ -129,6 +129,13 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>EntitlementId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
         <fullName>IsClosedOnCreate</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
@@ -138,6 +145,20 @@
         <fullName>IsEscalated</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>IsStopped</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>MilestoneStatus</fullName>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>MilestoneStatusIcon</fullName>
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
@@ -176,10 +197,12 @@
                 <value>
                     <fullName>No</fullName>
                     <default>false</default>
+                    <label>No</label>
                 </value>
                 <value>
                     <fullName>Yes</fullName>
                     <default>false</default>
+                    <label>Yes</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -190,6 +213,13 @@
         <trackHistory>true</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>ProductId</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Product__c</fullName>
@@ -206,38 +236,47 @@
                 <value>
                     <fullName>GC1040</fullName>
                     <default>false</default>
+                    <label>GC1040</label>
                 </value>
                 <value>
                     <fullName>GC1060</fullName>
                     <default>false</default>
+                    <label>GC1060</label>
                 </value>
                 <value>
                     <fullName>GC3020</fullName>
                     <default>false</default>
+                    <label>GC3020</label>
                 </value>
                 <value>
                     <fullName>GC3040</fullName>
                     <default>false</default>
+                    <label>GC3040</label>
                 </value>
                 <value>
                     <fullName>GC3060</fullName>
                     <default>false</default>
+                    <label>GC3060</label>
                 </value>
                 <value>
                     <fullName>GC5020</fullName>
                     <default>false</default>
+                    <label>GC5020</label>
                 </value>
                 <value>
                     <fullName>GC5040</fullName>
                     <default>false</default>
+                    <label>GC5040</label>
                 </value>
                 <value>
                     <fullName>GC5060</fullName>
                     <default>false</default>
+                    <label>GC5060</label>
                 </value>
                 <value>
                     <fullName>GC1020</fullName>
                     <default>false</default>
+                    <label>GC1020</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
@@ -264,13 +303,25 @@
                 <value>
                     <fullName>No</fullName>
                     <default>false</default>
+                    <label>No</label>
                 </value>
                 <value>
                     <fullName>Yes</fullName>
                     <default>false</default>
+                    <label>Yes</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
+    </fields>
+    <fields>
+        <fullName>SlaExitDate</fullName>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
+        <fullName>SlaStartDate</fullName>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
     </fields>
     <fields>
         <fullName>Status</fullName>
@@ -278,6 +329,10 @@
         <trackHistory>true</trackHistory>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>StopStartDate</fullName>
+        <trackTrending>false</trackTrending>
     </fields>
     <fields>
         <fullName>Subject</fullName>
