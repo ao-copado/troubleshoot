@@ -765,6 +765,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Super_Merto__c</fullName>
+        <externalId>false</externalId>
+        <label>Super Merto</label>
+        <length>155</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Telefonica_Field__c</fullName>
         <externalId>false</externalId>
         <label>Telefonica Field</label>
