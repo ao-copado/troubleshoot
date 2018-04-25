@@ -1,0 +1,362 @@
+[
+    [
+        "/app/dxProject/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665936310,
+            "changeTime": 1524665936310,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665936310,
+            "changeTime": 1524665936310,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665936414,
+            "changeTime": 1524665936414,
+            "contentHash": "d1783acf47fcb7ec23f15dbf710dcc85a0c3e0b5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665936310,
+            "changeTime": 1524665936310,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938718,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "0aba7657459d4d76d6cf08b5e8d3ea7fb77d6fad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "548ff75e068af774ac3ea2ed9713788d274080dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/AccountTriggerHelper.cls",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/AccountTriggerHelper.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 213,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "513441b5850f6ecbb607e99d9cd2c60127ba0dd8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/AccountTriggerHelper.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/AccountTriggerHelper.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/DummyClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/DummyClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "994538b453ae9fc473ab0ca28ec182b4689f3e74",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/DummyClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/DummyClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/TestAccountTrigger.cls",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/TestAccountTrigger.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 396,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "de0ab5cc5495e6bec74f00f7875e5a1d9bf9bad8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/TestAccountTrigger.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/TestAccountTrigger.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/TestDummyClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/TestDummyClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 127,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "3af87f4a303d3960ec0415c0fce12e9c1fb2ea20",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/TestDummyClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/TestDummyClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/TestLeadTrigger.cls",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/TestLeadTrigger.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "cb8a318ab328b44e499b5a3241c379dfbbbc421a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/classes/TestLeadTrigger.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/classes/TestLeadTrigger.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/triggers",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "2e327de68f8041efb6208296eb25ce524108502f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/triggers/AccountTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/triggers/AccountTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 115,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "1e17ad30391a4c36b14b7369858262d9d45407cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/triggers/AccountTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/triggers/AccountTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "30c8e41caec1ea5c6adc2f83745a9c74f89f0dca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/triggers/LeadTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/triggers/LeadTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 117,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "839f8b423d484ea850a595eefc744970e9a6cdf0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject/AO_Artifuck/main/default/triggers/LeadTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject/AO_Artifuck/main/default/triggers/LeadTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1524665938658,
+            "changeTime": 1524665938658,
+            "contentHash": "30c8e41caec1ea5c6adc2f83745a9c74f89f0dca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/app/dxProject",
+        {
+            "state": "u",
+            "sourcePath": "/app/dxProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1524665942374,
+            "changeTime": 1524665942374,
+            "contentHash": "7a47e62076e6410b5b88681620b37963c7671075",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
